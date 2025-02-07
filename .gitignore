@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+Certificate/
+Files/
+SQLNotes.pdf
+PostgreSQL+and+Python.html
+PostgreSQL+and+Python.py
+CheatSheet--SQL.png
+PostgreSQL-Sample-Database.png
+SQL--BestYoutubers-byGemini.png
+dvdrental.db
+dvdrental_desde_ipynb.db
+dvdrental_sqlite.sql
+dvdrental.sql
+dvdrental.tar
+exercises.tar
+*.txt
+*.csv
